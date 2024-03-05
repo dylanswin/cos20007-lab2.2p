@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1705.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterTask", "CounterTask\CounterTask.csproj", "{BC2614E9-FC06-4D25-847B-21A41FA14A3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterTest", "CounterTest\CounterTest.csproj", "{C0791ADD-D1AF-4F59-82AE-BA17D5B55F76}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BC2614E9-FC06-4D25-847B-21A41FA14A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC2614E9-FC06-4D25-847B-21A41FA14A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC2614E9-FC06-4D25-847B-21A41FA14A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0791ADD-D1AF-4F59-82AE-BA17D5B55F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0791ADD-D1AF-4F59-82AE-BA17D5B55F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0791ADD-D1AF-4F59-82AE-BA17D5B55F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0791ADD-D1AF-4F59-82AE-BA17D5B55F76}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
